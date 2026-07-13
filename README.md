@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
-<h3 align="center">Full Stack Developer | Building with HTML, CSS, JS, Java & TypeScript</h3>
+<h3 align="center">Front-end Developer | Building with HTML, CSS, JS, Java & TypeScript</h3>
 
 - 🔭 I'm currently working on real-world projects like a **plumbing services website** and **clay-works**
 - 🌱 Deepening my skills in **web development** — frontend + backend
