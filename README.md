@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dinesh</h1>
+<h3 align="center">Full Stack Developer | Building with HTML, CSS, JS, Java & TypeScript</h3>
 
-<!--
-**Dinesh-roger/Dinesh-roger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on real-world projects like a **plumbing services website** and **clay-works**
+- 🌱 Deepening my skills in **web development** — frontend + backend
+- 💬 Ask me about **HTML/CSS/JS, Java, JSP/JSTL, TypeScript**
+- 📫 Reach me at **dinesh.dha2903@gmail.com**
+- 🌐 Portfolio: [dinesh-roger.github.io](https://dinesh-roger.github.io/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+- **[Plumbing Works Website](https://github.com/Dinesh-roger/plumbing-works-website)** — Business website for Dhanasekaran Plumbing Works, built with HTML/CSS/JS, deployed on Netlify.
+- **[Clay Works](https://github.com/Dinesh-roger/clay-works)** — TypeScript project.
+- **[MyJSPJSTLProject](https://github.com/Dinesh-roger/MyJSPJSTLProject)** — JSP/JSTL based Java web project.
+
+---
+
+### 📊 GitHub Stats
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinesh-roger&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-roger&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh.dha2903@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dinesh-roger.github.io/)
