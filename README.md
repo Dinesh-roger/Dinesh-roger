@@ -25,8 +25,8 @@
 
 ---
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinesh-roger&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-roger&layout=compact&theme=dark)
+![Dinesh's GitHub stats](https://stats.programcx.cn/api?username=Dinesh-roger&show_icons=true&theme=radical)
+![Top Langs](https://stats.programcx.cn/api/top-langs?username=Dinesh-roger&layout=compact&theme=radical)
 
 ---
 
