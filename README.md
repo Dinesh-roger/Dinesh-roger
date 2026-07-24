@@ -36,11 +36,10 @@ and dynamic page rendering.
 **Confident and shipping with:**
 HTML5 · CSS3 · JavaScript · TypeScript
 
-**Actively building with (watch this space for projects):**
+**Actively building with**
 React · Java · MySQL
 
-I'd rather show you working code than list a stack I can't back up yet —
-new projects using React + MySQL are in progress.
+
 
 ---
 
