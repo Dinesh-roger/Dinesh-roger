@@ -53,14 +53,7 @@ new projects using React + MySQL are in progress.
 
 ---
 
-## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-roger&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinesh-roger&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-roger&layout=compact&theme=radical)
-
----
 
 ## 🔭 Right now I'm
 
