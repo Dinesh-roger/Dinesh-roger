@@ -1,37 +1,61 @@
-<h1 align="center">Hi 👋, I'm Dinesh</h1>
-<h3 align="center">Front-end Developer | Building with HTML, CSS, JS, Java & TypeScript</h3>
+# Hi, I'm Dinesh 👋
 
-- 🔭 I'm currently working on real-world projects like a **plumbing services website** and **clay-works**
-- 🌱 Deepening my skills in **web development** — frontend + backend
-- 💬 Ask me about **HTML/CSS/JS, Java, JSP/JSTL, TypeScript**
-- 📫 Reach me at **dinesh.dha2903@gmail.com**
-- 🌐 Portfolio: [dinesh-roger.github.io](https://dinesh-roger.github.io/)
+Front-end developer and CS student who'd rather ship something real than
+sit through another tutorial. I've already built and deployed two live
+websites for real small businesses — not clones, not templates, actual
+products people use today.
 
----
-
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Currently deepening React and backend basics (Java + MySQL) so I can take on
+bigger, full-stack freelance work.
 
 ---
 
-### 📌 Featured Projects
-- **[Plumbing Works Website](https://github.com/Dinesh-roger/plumbing-works-website)** — Business website for Dhanasekaran Plumbing Works, built with HTML/CSS/JS, deployed on Netlify.
-- **[Clay Works](https://github.com/Dinesh-roger/clay-works)** — TypeScript project.
-- **[MyJSPJSTLProject](https://github.com/Dinesh-roger/MyJSPJSTLProject)** — JSP/JSTL based Java web project.
+## 🚀 What I've built
+
+**[Dhanasekaran Plumbing Works](https://github.com/Dinesh-roger/plumbing-works-website)**
+A full business website for a plumbing service in Chennai — live and in use today.
+Built solo with HTML/CSS/JS: services grid, animated stats, testimonials, a
+WhatsApp-integrated booking flow (click-to-book sends a pre-filled message),
+and SEO-optimized metadata for local search.
+🔗 [Live site](https://dhanasekaran-plumbing-works.netlify.app/)
+
+**[Clay Works](https://github.com/Dinesh-roger/clay-works)**
+A product site for AasaiThambi Clay Works — a Tirupathi-based business selling
+handcrafted eco-friendly clay Vinayagar idols (1–13 ft) with pan-India delivery.
+Built with TypeScript, deployed on Cloudflare Workers, with WhatsApp-based ordering.
+🔗 [Live site](https://aasaithambi.clay-works.workers.dev/)
+
+**[MyJSPJSTLProject](https://github.com/Dinesh-roger/MyJSPJSTLProject)**
+A Java web app built with JSP/JSTL — my first real dive into server-side logic
+and dynamic page rendering.
 
 ---
 
+## 🛠️ Skills
 
-![Top Langs](https://stats.programcx.cn/api/top-langs?username=Dinesh-roger&layout=compact&theme=radical)
+**Confident and shipping with:**
+HTML5 · CSS3 · JavaScript · TypeScript
+
+**Actively building with (watch this space for projects):**
+React · Java · MySQL
+
+I'd rather show you working code than list a stack I can't back up yet —
+new projects using React + MySQL are in progress.
 
 ---
 
-### 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh.dha2903@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dinesh-roger.github.io/)
+## 🔭 Right now I'm
+
+- Building a full-stack project (React front-end + MySQL backend) to prove
+  out what I'm learning
+- Open to **freelance front-end work** — landing pages, small business sites,
+  UI builds, WhatsApp-commerce style sites
+- A CS student, so I'm hungry and I have time to actually dig into your project
+
+---
+
+## 📫 Let's talk
+
+- Email: dinesh.dha2903@gmail.com
+- Portfolio: [dinesh-roger.github.io](https://dinesh-roger.github.io/)
+- Best way to reach me if you have freelance work or want to collaborate 👆
