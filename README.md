@@ -1,5 +1,7 @@
 # Hi, I'm Dinesh 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Front-end+Developer;CS+Student;Building+real+products+for+real+businesses)
+
 Front-end developer and CS student who'd rather ship something real than
 sit through another tutorial. I've already built and deployed two live
 websites for real small businesses — not clones, not templates, actual
@@ -29,17 +31,34 @@ Built with TypeScript, deployed on Cloudflare Workers, with WhatsApp-based order
 A Java web app built with JSP/JSTL — my first real dive into server-side logic
 and dynamic page rendering.
 
+<br>
+
+[![Plumbing Works](https://github-readme-stats.vercel.app/api/pin/?username=Dinesh-roger&repo=plumbing-works-website&theme=radical)](https://github.com/Dinesh-roger/plumbing-works-website)
+[![Clay Works](https://github-readme-stats.vercel.app/api/pin/?username=Dinesh-roger&repo=clay-works&theme=radical)](https://github.com/Dinesh-roger/clay-works)
+
 ---
 
 ## 🛠️ Skills
 
 **Confident and shipping with:**
-HTML5 · CSS3 · JavaScript · TypeScript
 
-**Actively building with**
-React · Java · MySQL
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
+**Actively building with (watch this space for projects):**
 
+<img src="https://skillicons.dev/icons?i=react,java,mysql" />
+
+I'd rather show you working code than list a stack I can't back up yet —
+new projects using React + MySQL are in progress.
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-roger&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinesh-roger&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-roger&layout=compact&theme=radical)
 
 ---
 
@@ -55,6 +74,7 @@ React · Java · MySQL
 
 ## 📫 Let's talk
 
-- Email: dinesh.dha2903@gmail.com
-- Portfolio: [dinesh-roger.github.io](https://dinesh-roger.github.io/)
-- Best way to reach me if you have freelance work or want to collaborate 👆
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh.dha2903@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dinesh-roger.github.io/)
+
+Best way to reach me if you have freelance work or want to collaborate 👆
