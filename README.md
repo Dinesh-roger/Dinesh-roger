@@ -55,15 +55,7 @@ new projects using React + MySQL are in progress.
 
 
 
-## 🔭 Right now I'm
 
-- Building a full-stack project (React front-end + MySQL backend) to prove
-  out what I'm learning
-- Open to **freelance front-end work** — landing pages, small business sites,
-  UI builds, WhatsApp-commerce style sites
-- A CS student, so I'm hungry and I have time to actually dig into your project
-
----
 
 ## 📫 Let's talk
 
